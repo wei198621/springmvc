@@ -1,3 +1,5 @@
+ss 环境搭建   spring  springMvc     20200706
+
 搭建环境：
 1.  webapp/WEB-INF/web.xml
            配置springmvc核心servlet  DispatcherServlet
